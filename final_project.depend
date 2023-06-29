@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1686658071 source:c:\users\kim\documents\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+
+1686659146 source:c:\자료구조\real\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+
